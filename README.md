@@ -11,7 +11,7 @@ click en Añadir, asi se guarda.
 Validacion de entrada: Si el usuario no llegase a escribir ningun nombre, saldria una
 alerta avisando de que necesita ingresar uno.
 
-visualización de lista: Los nombres que ingrese la persona, aparecen en la zona de abajo.
+Visualización de lista: Los nombres que ingrese la persona, aparecen en la zona de abajo.
 
 Sorteo: Una vez el usuario ingreso los pasos anteriores, haciendo click en
 sortear, se seleccionara un nombre de la lista aleatoriamente y se lo dara.Mostrandose
